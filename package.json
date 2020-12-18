@@ -1,0 +1,33 @@
+{
+  "name": "card-game-playtester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenniferneale/card-game-playtester.git"
+  },
+  "keywords": [],
+  "author": "Jennifer Neale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenniferneale/card-game-playtester/issues"
+  },
+  "homepage": "https://github.com/jenniferneale/card-game-playtester#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jest": "^26.2.2",
+    "jest-cli": "^26.2.2",
+    "mocha": "^8.1.1",
+    "nodemon": "^2.0.4"
+  }
+}
